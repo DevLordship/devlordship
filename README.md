@@ -1,13 +1,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<img height="230" align="right" alt="coding" src="https://media2.giphy.com/media/MunViQ5feR29sMFVfa/giphy.gif?cid=6c09b952c7jgvpp3bgsgpsv3g2gk3sob02xw7i851m73fgfz&rid=giphy.gif&ct=s">
-# 💫 About Me:
-🔭 I’m currently working on myself by upskilling myself <br>🌱 I’m currently learning Data Structures And Algorithms and MERN Stack<br>👯 I’m looking to collaborate on MERN Stack and pair-programming for solving DSA problems<br>🤔 I’m looking for help with DSA , if you are good at it , feel free to give a tip or two<br>💬 Ask me about DSA and MERN Stack<br>📫 How to reach me: devlordship@gmail.com<br>😄 Pronouns: He\Him<br>⚡ Fun fact: I am a Humanities Graduate<br><br>
 
+<img height="230" align="right" alt="coding" src="https://media2.giphy.com/media/MunViQ5feR29sMFVfa/giphy.gif?cid=6c09b952c7jgvpp3bgsgpsv3g2gk3sob02xw7i851m73fgfz&rid=giphy.gif&ct=s">
+
+# 💫 About Me:
+🔭 I’m currently working on myself by upskilling myself <br>🌱 I’m currently learning Data Structures And Algorithms and MERN Stack<br>👯 I’m looking to collaborate on MERN Stack and pair-programming for solving DSA problems<br>🤔 I’m looking for help with DSA , if you are good at it , feel free to give a tip or two<br>💬 Ask me about DSA and MERN Stack<br>📫 How to reach me: devlordship@gmail.com<br>😄 Pronouns: He\Him<br>⚡ Fun fact: I am a Humanities Graduate<br><br> 
 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6QSnjPhvfd) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/devlordship) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devlordship) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devlordship) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@devlordship) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/devlordship) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/devlordship) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@devlordship)
 <p>
+ 
+
 <a href="https://codepen.io/devlordship" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devlordship" height="30" width="40" /></a>
 <a href="https://dev.to/devlordship" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devlordship" height="30" width="40" /></a>
 </p>
