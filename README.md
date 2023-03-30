@@ -1,7 +1,7 @@
 ![MasterHead](https://lh5.googleusercontent.com/Ack-TIBmtAhpfOglLjuGnOLkLzapOyr-5rmUXaq-Hximv2YYV52_ktgtqEAp1UIs8_k=w2400)
 
 
-<img height="430" align="right" alt="coding" src="https://lh4.googleusercontent.com/cUc7YlG4DC9ALgyi-4jXjDKzl0RoGuqOmqsPDuZOK-CsFtSLosxRui9Cb-3XcgDIPXQ=w2400">
+<img height="350" align="right" alt="coding" src="https://lh4.googleusercontent.com/cUc7YlG4DC9ALgyi-4jXjDKzl0RoGuqOmqsPDuZOK-CsFtSLosxRui9Cb-3XcgDIPXQ=w2400">
 
 # 💫 About Me:
 🔭 I’m currently working on myself by upskilling myself <br>🌱 I’m currently learning Data Structures And Algorithms and MERN Stack<br>👯 I’m looking to collaborate on MERN Stack and pair-programming for solving DSA problems<br>🤔 I’m looking for help with DSA , if you are good at it , feel free to give a tip or two<br>💬 Ask me about DSA and MERN Stack<br>📫 How to reach me: devlordship@gmail.com<br>😄 Pronouns: He\Him<br>⚡ Fun fact: I am a Humanities Graduate<br><br> 
