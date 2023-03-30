@@ -1,5 +1,8 @@
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<img height="230" align="right" alt="coding" src="https://media2.giphy.com/media/MunViQ5feR29sMFVfa/giphy.gif?cid=6c09b952c7jgvpp3bgsgpsv3g2gk3sob02xw7i851m73fgfz&rid=giphy.gif&ct=s">
 # 💫 About Me:
 🔭 I’m currently working on myself by upskilling myself <br>🌱 I’m currently learning Data Structures And Algorithms and MERN Stack<br>👯 I’m looking to collaborate on MERN Stack and pair-programming for solving DSA problems<br>🤔 I’m looking for help with DSA , if you are good at it , feel free to give a tip or two<br>💬 Ask me about DSA and MERN Stack<br>📫 How to reach me: devlordship@gmail.com<br>😄 Pronouns: He\Him<br>⚡ Fun fact: I am a Humanities Graduate<br><br>
+
 
 
 ## 🌐 Socials:
