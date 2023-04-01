@@ -23,8 +23,6 @@
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DevLordship&theme=buddhism&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevLordship&icon=4&color=3)](https://visitcount.itsvg.in)
